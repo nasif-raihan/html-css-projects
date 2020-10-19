@@ -1,0 +1,60 @@
+
+#main {
+    background-color: rgb(112, 168, 112);
+    padding: 10px;
+}
+#title {
+    text-align: center;
+    padding: 15px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+#img-div {
+    margin: 15px;
+    background-color: rgb(231, 223, 224);
+    padding: 20px 0 5px 0;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    width: 90%;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+  max-width: 1000px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+h2, h3 {
+    text-align: center;
+    padding: 15px;
+}
+
+span {
+    font-weight: bold;
+}
+
+li {
+    margin: 10px;;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(136, 4, 4);
+}
+a:hover {
+    color: rgb(5, 146, 5);
+}
